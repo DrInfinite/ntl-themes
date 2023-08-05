@@ -519,7 +519,7 @@
       ],
       "settings": {
         "foreground": "#3fc56b",
-        "fontStyle": "bold underline"
+        "fontStyle": ""
       }
     },
     {
@@ -538,7 +538,8 @@
         "support.type.enum.graphql"
       ],
       "settings": {
-        "foreground": "#ff6480"
+        "foreground": "#ff6480",
+        "fontStyle": "underline"
       }
     },
     {
