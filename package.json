@@ -1,0 +1,56 @@
+{
+	"name": "ntl-themes",
+	"displayName": "NTL Themes",
+	"description": "A collection of soft, easy on the eyes, light and dark ttheme with beautiful blues and gentle hues.",
+	"version": "0.0.1",
+	"publisher": "Naparajith",
+	"icon": "icon.png",
+	"license": "MIT",
+	"keywords": [
+		"advance",
+		"advanced",
+		"code",
+		"dark theme",
+		"dark",
+		"italic",
+		"light theme",
+		"light",
+		"material",
+		"naparajith",
+		"ntl",
+		"one dark",
+		"one light",
+		"pro",
+		"theme"
+	],
+	"engines": {
+		"vscode": "^1.81.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NTL Light Theme",
+				"uiTheme": "vs",
+				"path": "./themes/ntl-light-color-theme.json"
+			},
+			{
+				"label": "NTL Light Italic Theme",
+				"uiTheme": "vs",
+				"path": "./themes/ntl-light-italic-color-theme.json"
+			},
+			{
+				"label": "NTL Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ntl-dark-color-theme.json"
+			},
+			{
+				"label": "NTL Dark Italic Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ntl-dark-italic-color-theme.json"
+			}
+		]
+	}
+}
