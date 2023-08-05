@@ -749,6 +749,7 @@
         "string.comment",
         "support.type.property-name",
         "variable.language",
+        "string.json"
       ],
       "settings": {
         "fontStyle": "italic"

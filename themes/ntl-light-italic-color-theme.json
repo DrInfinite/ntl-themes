@@ -743,6 +743,7 @@
         "string.comment",
         "support.type.property-name",
         "variable.language",
+        "string.json"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -754,7 +755,7 @@
         "keyword.operator",
         "keyword.other.unit",
         "keyword.other.special-method",
-        "entity.name.tag"
+        "entity.name.tag",
       ],
       "settings": {
         "fontStyle": ""
