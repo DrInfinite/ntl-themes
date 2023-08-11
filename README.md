@@ -1,4 +1,4 @@
-# NT&T - An Elegant Light Theme
+# NTL - An Elegant collection of Themes
 
 ### A collection of soft, easy on the eyes, light and dark ttheme with beautiful blues and gentle hues.
 
