@@ -6,6 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+- Major Update to Light and Dark Themes
 - Minor Styling Fixes (0.0.5)
 - Minor Styling Fixes (0.0.4)
 - Initial release
